@@ -1,0 +1,4 @@
+Requirements:
+
+nltk, nltk.download()
+requests_html  (pip install requests_html)
